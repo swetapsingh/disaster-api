@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/disaster-api/static/css/main.e6c13ad2.css",
+    "main.js": "/disaster-api/static/js/main.cd331347.js",
+    "static/js/488.b5c39179.chunk.js": "/disaster-api/static/js/488.b5c39179.chunk.js",
+    "index.html": "/disaster-api/index.html",
+    "main.e6c13ad2.css.map": "/disaster-api/static/css/main.e6c13ad2.css.map",
+    "main.cd331347.js.map": "/disaster-api/static/js/main.cd331347.js.map",
+    "488.b5c39179.chunk.js.map": "/disaster-api/static/js/488.b5c39179.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.cd331347.js"
+  ]
+}

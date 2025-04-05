@@ -1,0 +1,25 @@
+# Python virtual environment
+venv/
+
+# Byte-compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Node modules
+node_modules/
+
+# Logs and temp files
+*.log
+*.tmp
+
+# IDE files
+.vscode/
+.idea/
+
+# Environment variables
+.env
+
+# Build directories
+dist/
+build/

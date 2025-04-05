@@ -15,7 +15,8 @@ export const fetchAIResponse = async (query) => {
 };
 
 // 🔹 Backend Base URL
-const BASE_BACKEND_URL = "http://127.0.0.1:8000";
+const BASE_BACKEND_URL = "https://disaster-backend-9xmc.onrender.com";
+
 
 // 🔹 Inventory API: GET
 export const getInventory = async () => {
